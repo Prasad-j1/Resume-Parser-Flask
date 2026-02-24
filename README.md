@@ -1,10 +1,9 @@
 📄 AI Resume Parser (Flask Web App)
+
 🚀 Project Overview
 This project is a Flask-based web application that extracts structured information from unstructured resume documents (PDF & image formats) using:
 
 OCR (Tesseract)
-
-NLP (spaCy Named Entity Recognition)
 
 Regex-based data extraction
 
@@ -24,7 +23,8 @@ Skills
 
 Experience
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 Python
 
 Flask
@@ -37,7 +37,6 @@ pdf2image
 
 Pandas
 
-Bootstrap 5 (Frontend)
 
 🧠 Architecture
 Upload resumes via web UI
@@ -46,7 +45,7 @@ Convert PDF to images (if required)
 
 Extract text using OCR
 
-Apply NLP & Regex for structured extraction
+Apply Regex for structured extraction
 
 Display results dynamically
 
@@ -60,15 +59,16 @@ OCR_Engine.py
 PDF_Handler.py
 Data_Storage.py
 templates/
-static/
 requirements.txt
+
 ⚙️ Installation
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Parser-Flask.git
+git clone https://github.com/Prasad-j1/Resume-Parser-Flask.git
+
 cd AI-Resume-Parser-Flask
 pip install -r requirements.txt
 python app.py
-Open:
 
+Open:
 http://127.0.0.1:5000
 
 
