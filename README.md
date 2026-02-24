@@ -65,7 +65,7 @@ templates/
 static/
 requirements.txt
 ⚙️ Installation
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Parser-Flask.git
+git clone : [https://github.com/Prasad-j1/Resume-Parser-Flask.git]
 cd AI-Resume-Parser-Flask
 pip install -r requirements.txt
 python app.py
