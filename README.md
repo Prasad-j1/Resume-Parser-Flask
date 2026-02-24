@@ -1,5 +1,9 @@
 📄 AI Resume Parser (Flask Web App)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5766c92d2576be5fd9eab1596ba3f72d6c10fa64
 🚀 Project Overview
 This project is a Flask-based web application that extracts structured information from unstructured resume documents (PDF & image formats) using:
 
