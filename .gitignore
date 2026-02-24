@@ -1,0 +1,8 @@
+
+uploads/*
+!uploads/.keep
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+Parsed_Resumes.xlsx
