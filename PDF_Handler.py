@@ -11,5 +11,5 @@ class PDF_Converter():
         self.__images = []
        
     def convert_to_images(self,dpi = 300):
-        self.__images = convert_from_path(self.__pdf_path,dpi)
+        self.__images = convert_from_path(self.__pdf_path,dpi,first_page=1, last_page=2)
         return self.__images
